@@ -1,1 +1,37 @@
 /* You can add global styles to this file, and also import other style files */
+angular-file-uploader {
+    direction: rtl;
+}
+.afu-select-btn {
+
+}
+.afu-reset-btn {
+
+}
+.afu-upload-btn {
+
+}
+.afu-dragndrop-box {
+
+}
+.afu-dragndrop-text {
+
+}
+.afu-constraints-info {
+    display: none;
+}
+.afu-valid-file {
+    width: 50px;
+}
+.afu-invalid-file {
+
+}
+.afu-progress-bar {
+
+}
+.afu-upload-status {
+
+}
+.afu-attach-pin {
+
+}
